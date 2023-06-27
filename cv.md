@@ -53,11 +53,14 @@ function booleanToString(b){
 - Freedom IT School, HTML & CSS Course
 - Udemy, The Complete SQL Course by Jose Portilla 
 
-### CERTIFICATIONS
-- ISTQB Certified Tester FL
-- TGLS English B2
-
 ### LANGUAGES
 - English B2 
 - Polish B2
 - Russian native
+
+### CERTIFICATIONS
+- ISTQB Certified Tester FL
+<img src="https://github.com/hannakulikowska/rsschool-cv/assets/80547490/c1993ded-00ad-4e3d-b161-5a92d4010a76" width=20% high=20%>
+
+- TGLS English B2
+<img src="https://github.com/hannakulikowska/rsschool-cv/assets/80547490/8b98cccd-ebe7-4e05-8298-e42b265d523e" width=20% high=20%>

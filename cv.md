@@ -59,8 +59,9 @@ function booleanToString(b){
 - Russian native
 
 ### CERTIFICATIONS
-- ISTQB Certified Tester FL
-<img src="https://github.com/hannakulikowska/rsschool-cv/assets/80547490/c1993ded-00ad-4e3d-b161-5a92d4010a76" width=20% high=20%>
 
 - TGLS English B2
-<img src="https://github.com/hannakulikowska/rsschool-cv/assets/80547490/8b98cccd-ebe7-4e05-8298-e42b265d523e" width=20% high=20%>
+- ISTQB Certified Tester FL
+
+![en_b2](https://github.com/hannakulikowska/rsschool-cv/assets/80547490/1c78485c-97a5-4393-862e-5a18c6a1b586)
+![istqb](https://github.com/hannakulikowska/rsschool-cv/assets/80547490/c07fbb75-c0ae-4fb8-968a-0dfb71702ec6)

@@ -1,2 +1,3 @@
 # rsschool-cv
-The repository contains my CV.
+https://hannakulikowska.github.io/rsschool-cv/cv
+https://hannakulikowska.github.io/rsschool-cv/
